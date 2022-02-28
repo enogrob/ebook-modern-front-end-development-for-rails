@@ -12,11 +12,10 @@ Solution Integrator Experienced - Certified by Ericsson
 
 Learn everything you need to about the subject of this `eBook` project.
 
-[Homepage](https://ebook.com)
-
+[Homepage](https://pragprog.com/titles/nrclient/modern-front-end-development-for-rails)
 ## Topics
 ```
-Introduction
+[x] Introduction
 Getting Started
 [ ] Getting Started with Client-Side Rails excerpt
 [ ] Managing State and Front-End Development
