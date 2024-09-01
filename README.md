@@ -16,10 +16,10 @@ Learn everything you need to about the subject of this `eBook` project.
 ## Topics
 ```
 So you want to write some client-side code
-[ ] Basic assumptions
-[ ] The tools we'll use
-[ ] How the book is organized
-[ ] The sample code
+[x] Basic assumptions
+[x] The tools we'll use
+[x] How the book is organized
+[x] The sample code
 Part I -- Getting started
 1. Getting Started
 [ ] Getting Started with Client-Side Rails excerpt
