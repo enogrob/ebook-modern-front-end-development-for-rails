@@ -15,14 +15,19 @@ Learn everything you need to about the subject of this `eBook` project.
 [Homepage](https://pragprog.com/titles/nrclient/modern-front-end-development-for-rails)
 ## Topics
 ```
-[x] Introduction
-Getting Started
+So you want to write some client-side code
+[ ] Basic assumptions
+[ ] The tools we'll use
+[ ] How the book is organized
+[ ] The sample code
+Part I -- Getting started
+1. Getting Started
 [ ] Getting Started with Client-Side Rails excerpt
 [ ] Managing State and Front-End Development
 [ ] Configuring Webpacker
 [ ] Using Webpacker
 [ ] What’s Next
-Hotwire and Turbo
+2. Hotwire and Turbo
 [ ] The Hotwire Way
 [ ] Installing Turbo
 [ ] What Is Turbo Drive?
@@ -32,7 +37,7 @@ Hotwire and Turbo
 [ ] Turbo Frames vs. Turbo Streams
 [ ] Lazy Loading a Turbo Frame
 [ ] What’s Next
-Stimulus
+3. Stimulus
 [ ] What Is Stimulus?
 [ ] Installing Stimulus
 [ ] Adding Our First Controller
@@ -44,7 +49,7 @@ Stimulus
 [ ] Going Generic
 [ ] Stimulus Quick Reference
 [ ] What’s Next
-React
+4. React
 [ ] What Is React?
 [ ] Installing React
 [ ] Adding Our First Component
@@ -53,7 +58,7 @@ React
 [ ] Interactivity, State, and Hooks excerpt
 [ ] Sharing State
 [ ] What’s Next
-Cascading Style Sheets
+5. Cascading Style Sheets
 [ ] Building CSS in webpack
 [ ] Adding CSS and Assets to webpack
 [ ] Animating CSS
@@ -61,8 +66,8 @@ Cascading Style Sheets
 [ ] Animating Turbo Streams with Animate.css
 [ ] Using CSS and React Components
 [ ] What’s Next
-Going Deeper
-[ ] TypeScript
+Part II - Going Deeper
+6. TypeScript
 [ ] Using TypeScript
 [ ] Understanding Basic TypeScript Types
 [ ] Static vs. Dynamic Typing
@@ -73,12 +78,12 @@ Going Deeper
 [ ] Type Checking Classes and Interfaces
 [ ] Getting Type Knowledge to TypeScript
 [ ] What’s Next
-webpack
+7. webpack
 [ ] Understanding Why webpack Exists
 [ ] Managing Dependencies with Yarn
 [ ] Understanding webpack Configuration
 [ ] What’s Next
-Webpacker excerpt
+8. Webpacker excerpt
 [ ] Webpacker Basics
 [ ] Writing Code Using Webpacker
 [ ] Integrating Webpacker with Frameworks
@@ -86,34 +91,35 @@ Webpacker excerpt
 [ ] Deploying Webpacker in Production
 [ ] Customizing Webpacker
 [ ] What’s Next
-Managing Servers and State
-Talking to the Server
+Part III - Managing Servers and State
+9. Talking to the Server
 [ ] Using Stimulus to Manage Forms
 [ ] Stimulus and Ajax
 [ ] Using Data in Stimulus
 [ ] Acquiring Data in React with useState
 [ ] What’s Next
-Immediate Communication with ActionCable
+10. Immediate Communication with ActionCable
 [ ] Installing ActionCable
 [ ] Turbo Streams and ActionCable
 [ ] Stimulus and ActionCable
 [ ] React and ActionCable
 [ ] What’s Next
-Managing State in Stimulus Code
+11. Managing State in Stimulus Code
 [ ] Using Data Values for Logic
 [ ] Observing and Responding to DOM Changes
 [ ] Rendering CSS with Data Attributes
 [ ] What’s Next
-Managing State in React
+12. Managing State in React
 [ ] Using Reducers
 [ ] Using Context to Share State
 [ ] Adding Asynchronous Events to Contexts
 [ ] What’s Next
-Using Redux to Manage State
+13. Using Redux to Manage State
 [ ] Installing and Using Redux
 [ ] Adding Asynchronous Actions to Redux
 [ ] What’s Next
-Validating Your Code
+Part IV - Validating your code
+14. Validating your code
 [ ] Validating Code with Advanced TypeScript
 [ ] Creating Union Types
 [ ] Specifying Types with Literal Types
@@ -122,21 +128,21 @@ Validating Your Code
 [ ] TypeScript Configuration Options
 [ ] Dealing with Strictness
 [ ] What’s Next
-Testing with Cypress
+15. Testing with Cypress
 [ ] Why Cypress?
 [ ] Installing Cypress
 [ ] Configuring Cypress and Rails
 [ ] Writing Our First Test
 [ ] Understanding How Cypress Works
 [ ] What’s Next
-More Testing and Troubleshooting
+16. More Testing and Troubleshooting
 [ ] Writing More Cypress Tests
 [ ] Testing the Schedule Filter
 [ ] Cypress and React
 [ ] Cypress Utilities and API
 [ ] Troubleshooting
 [ ] What’s Next
-Framework Swap
+A1. Framework Swap
 [ ] The All-Hotwire App
 [ ] The All-React App
 [ ] Comparison
